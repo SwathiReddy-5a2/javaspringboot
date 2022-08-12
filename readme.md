@@ -1,6 +1,6 @@
 ## What is it?
 This source code is an Spring Boot web application (mvc + thymeleaf).
-hi i am from dvsbatch2  
+hi i am from dvsbatch  
 Tested with
 * Docker 19.03
 * Ubuntu 19
